@@ -13,7 +13,7 @@ const MainTitle = styled.h1`
 const HeaderCompo = () =>{
     return(
         <Header>
-            <MainTitle>form collections</MainTitle>
+            <MainTitle>form collection</MainTitle>
         </Header>
     )
 }
